@@ -1,0 +1,24 @@
+#accordion{
+    width: 400px;
+    margin: 0 auto;
+    border-bottom: 1px solid #940773;
+}
+#accordion h4 {
+    background-color: #E6BCDC;
+    border: 1px solid #940773;
+    border-bottom: none;
+    margin: 0;
+    padding: 5px;
+    cursor: pointer;
+}
+#accordion h4:hover {
+background-color: #DB5CBD;
+}
+#accordion p {
+    background-color: #F0E1EC;
+    border: 1px solid #940773;
+    border-bottom: none;
+    border-top: none;
+    margin: 0;
+    padding: 15px;
+}
